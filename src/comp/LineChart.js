@@ -61,7 +61,7 @@ const chartone = () => {
             pointBorderColor: 'rgba(54, 162, 235, 0.2)'
           },
           {
-            label: 'Nation/20',
+            label: 'Nation',
             data: [(nation0-nation0), (nation1-nation0)/nation0*100, (nation2-nation0)/nation0*100, (nation3-nation0)/nation0*100, (nation5-nation0)/nation0*100, (nation4-nation0)/nation0*100],
             borderColor: ['rgba(99, 107, 255, 0.2)'],
             backgroundColor: ['rgba(99, 107, 255, 0.1)'],
